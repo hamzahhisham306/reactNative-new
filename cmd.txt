@@ -1,3 +1,4 @@
 1. To create new app >> npx create-expo-app@latest ./
 2. To install native wind >>>> npm install nativewind
 3. To install tailwind >>> npm install --save-dev tailwindcss@3.3.2
+4. setup tailwind npx tailwindcss init / https://www.nativewind.dev/getting-started/installation
